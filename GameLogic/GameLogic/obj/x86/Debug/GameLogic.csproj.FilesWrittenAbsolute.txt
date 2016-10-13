@@ -1,0 +1,10 @@
+/Users/ernestsoo/Desktop/GameLogic-J-B-fixed/GameLogic/GameLogic/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ernestsoo/Desktop/GameLogic-J-B-fixed/GameLogic/GameLogic/bin/Debug/SwinGame.dll
+/Users/ernestsoo/Desktop/GameLogic-J-B-fixed/GameLogic/GameLogic/bin/Debug/nunit.framework.dll
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/bin/Debug/SwinGame.dll
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/bin/Debug/nunit.framework.dll
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/bin/Debug/GameLogic.exe.mdb
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/bin/Debug/GameLogic.exe
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/obj/x86/Debug/GameLogic.exe
+/Users/ernestsoo/Desktop/GameLogic/GameLogic/obj/x86/Debug/GameLogic.exe.mdb

@@ -1,0 +1,5 @@
+C:\Users\Brandonbong\Documents\Projects\GameLogic\GameLogic\obj\x86\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Brandonbong\Desktop\GameLogic\GameLogic\obj\x86\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DP converted all file unsure\GameLogic\GameLogic\obj\x86\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\Brandonbong\Downloads\GameLogic\GameLogic\obj\x86\Debug\GameLogic.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GameLogic-J-B-fixed\GameLogic\GameLogic\obj\x86\Debug\GameLogic.csprojResolveAssemblyReference.cache
